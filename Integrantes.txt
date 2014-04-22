@@ -1,0 +1,6 @@
+Sistemas Operativos
+Universidad Nacional de Colombia
+
+-- Maikol Bonilla Gil			2879455		
+-- Diego Alejandro Vanegas Prada	2879480
+-- Carlos Alfonso Gómez Hernández	2879472
