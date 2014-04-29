@@ -61,7 +61,6 @@ public class Main {
 				switch (s[0]) {
 				case "Cambios": {
 					for (int i = 1; i < s.length; i++) {
-						//inversionAux += s[i]+" ";
 						Banco.tell("Modificar "+s[i],null);
 					}
 					break;
@@ -72,13 +71,6 @@ public class Main {
 			} else {
 				unhandled(message);
 			}
-			
-			
-			/*String[] inversion = inversionAux.split(" ");
-			
-			for (int i = 0; i < inversion.length; i++) {
-				Banco.tell("Modificar "+inversion[i], null);
-			}*/
 			
 		}
 
